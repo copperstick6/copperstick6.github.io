@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First Hackathon and Reflections.... and the Future?
+title: First Hackathon and Reflections
 ---
 
 What's up, what is this? I thought you hate writing anything...
