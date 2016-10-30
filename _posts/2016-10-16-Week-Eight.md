@@ -6,6 +6,7 @@ title: First Hackathon and Reflections.... and the Future?
 What's up, what is this? I thought you hate writing anything...
 ---
 A friend of mine told me to create this 'blog' because he thinks that I have too much on my mind all the time, and he thinks I'm slowly deviating from the fun person I usually am, and that I'm becoming a workaholic =S.
+
 Well, I guess he's right.
 
 So... what're you up to?
