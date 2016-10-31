@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First Hackathon and Reflections
+title: First Hackathon
 ---
 
 What's up, what is this? I thought you hate writing anything...
