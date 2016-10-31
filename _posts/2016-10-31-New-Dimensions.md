@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A new dimension
+title: A New Dimension
 ---
 
 Last week was pretty uneventful.
