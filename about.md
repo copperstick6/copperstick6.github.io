@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-#This is a Dev Blog of Sorts, don't expect frequent blogging =P
+This is a Dev Blog of Sorts, don't expect frequent blogging =P
+---
 
 UTCS Class of 2020!
 Freshman
