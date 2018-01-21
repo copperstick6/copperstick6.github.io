@@ -13,4 +13,4 @@ If you actually want to learn about me, talk to me.
 Find me, somehow.  
 
 
-In the meantime, enjoy this blog. Oh, and here's my [CS page](cs.utexas.edu/~copperst)
+In the meantime, enjoy this blog. Oh, and here's my [CS page](http://www.cs.utexas.edu/~copperst)
