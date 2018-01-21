@@ -22,7 +22,7 @@ Well what? Well turns out Amazon Web Services screwed us again! They forced us t
 IT WORKED
 ---
 
-Totally unexpected. Me and Sohaib were sooo tired (at this point, it was 6:30). But we did it. 
+Totally unexpected. Me and Sohaib were sooo tired (at this point, it was 6:30). But we did it.
 
 What does this mean?
 ---
