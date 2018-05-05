@@ -24,7 +24,7 @@ Because the class is divided into two parts, I'll address this question separate
 1. I didn't find myself learning much with the iDB project. I already had a lot of experience with the tools used, so I didn't find it too useful. It was nice to work with and meet new people.   
 2. Most significant thing I learned in class was definitely generators. That was cool.  
 
---
+---
 ## How many hours a week did you spend coding for this class?  
 
 For iDB1, I spent around 60-70 hours for two weeks configuring and setting things up, since we used React for phase1, and we were ahead of everyone because of the time we spent skipping the static HTML page and going straight to React. Afterwards, I spent around 7-8 hours a week on iDB, and that ramped up to 15-20 the week of exams preparing for the exams by typing up the code in Jupyter Notebook.  
